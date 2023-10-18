@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=FFengIll&title_color=81A1C1&icon_color=81A1C1&text_color=333&bg_color=fffefe&show_icons=true&count_private=true&hide=issues" />
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=ffengill&count_private=true&hide_rank=true"/>
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FFengIll&layout=compact" />
 </p>
 
