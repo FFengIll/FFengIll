@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - 未成功创业者
 - 业余3D Maker
 - 非权威美德玩家
+- 为AI发电
 - [隐藏称号]
 
 ### 成就
