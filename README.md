@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+<img height="150px" src="image/3d.jpeg" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=ffengill&count_private=true&hide_rank=true&show_icons=true"/>
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffengill&&layout=compact" />
 </p>
+
 
 ### 主线
 - 9年义务教育
