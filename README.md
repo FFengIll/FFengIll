@@ -1,28 +1,5 @@
 ### Hi there 👋
 
-### 主线
-- 9年义务教育
-- 7年UXXXC
-- 10年内I|H|A|T
-- [待见未来]
-
-### 称号
-- 专业工具研发
-- 非资深代码分析
-- 未成功创业者
-- 业余3D Maker
-- 非权威美德玩家
-- [隐藏称号]
-
-### 成就
-- Github粉丝
-- Jetbrains群众
-- LLVM学徒
-- Golang无泛型世代
-- AI使用者
-- Pikachu制造者
-- [隐藏成就]
-
 <!--
 **FFengIll/FFengIll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,4 +28,25 @@ Here are some ideas to get you started:
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffengill&&layout=compact" />
 </p>
 
+### 主线
+- 9年义务教育
+- 7年UXXXC
+- 10年内I|H|A|T
+- [待见未来]
 
+### 称号
+- 专业工具研发
+- 非资深代码分析
+- 未成功创业者
+- 业余3D Maker
+- 非权威美德玩家
+- [隐藏称号]
+
+### 成就
+- Github粉丝
+- Jetbrains群众
+- LLVM学徒
+- Golang无泛型世代
+- AI使用者
+- Pikachu制造者
+- [隐藏成就]
