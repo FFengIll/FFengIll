@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 ### 称号
 - 专业工具研发
 - 非资深代码分析
+- 非主流编译前端
 - 未成功创业者
 - 业余3D Maker
 - 非权威美德玩家
