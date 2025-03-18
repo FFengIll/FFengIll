@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 
 
 ### 主线
-- 9年义务教育
-- 7年UXXXC
-- 10年内I|H|A|T
 - [待见未来]
 
 ### 称号
