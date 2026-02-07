@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-| 分类 | 内容                  | Category     | Content                         |
+|      |                       |              |                                 |
 | ---- | --------------------- | ------------ | ------------------------------- |
 | 主线 | 待见未来              | Main         | Next                            |
 | 称号 | 专业工具研发          | Titles       | Professional Tool Builder       |
@@ -50,5 +50,6 @@ Here are some ideas to get you started:
 |      | AI 使用者             |              | AI Practitioner                 |
 |      | Pikachu 制造者        |              | Pikachu Creator                 |
 |      | [隐藏成就]            |              | [Hidden Achievements]           |
+
 
 </div>
